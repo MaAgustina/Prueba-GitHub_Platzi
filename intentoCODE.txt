@@ -1,1 +1,2 @@
 Intentando conocer GIT y el mundo de POO
+quiero agregar una linea nueva para probar el update en GIT
